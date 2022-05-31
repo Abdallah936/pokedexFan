@@ -1,0 +1,34 @@
+.pokedex{
+    margin-top: 100px;
+    padding-top:100px;
+    height:80vh;
+    background-color: black;
+    color:white;
+    text-align:center;
+    position:relative;
+}
+.pokedex > .pokedex-name{
+    font-family:fantasy;
+    text-transform:uppercase;
+    text-align:center;
+}
+.pokedex-image{
+    width:400px;
+}
+.pokedex-info-container{
+    position:absolute;
+    bottom:60px;
+    width:100%;
+}
+
+.separator{
+    width:95%;
+}
+.pokedex-favorite{
+    width:100px;
+    height:100px;
+    margin-top:10px;
+}
+.pokedex .pokedex-text{
+    font-size:3rem;
+}

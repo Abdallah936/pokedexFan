@@ -1,0 +1,22 @@
+.pokemon-name{
+    margin-left:100px;
+}
+.pokemon-img{
+    width:250px;
+    height:250px;
+    margin:auto;
+}
+.card.pokemon{
+    margin:10px;
+    cursor:pointer;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.pokemon:hover{
+    background-color: rgb(90,90,90);
+    color:white;
+}
+body{
+    background-color:grey;
+}

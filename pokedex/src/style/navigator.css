@@ -1,0 +1,21 @@
+.appbar .link {
+  text-decoration: none;
+  gap: 5px;
+  justify-items: center;
+  justify-content: center;
+
+  color: white;
+}
+.appbar.nav {
+  background-color: black;
+}
+.appbar .title1 {
+  cursor: pointer;
+  font-size: 2rem;
+  margin-right: 30px;
+}
+.appbar .title2 {
+  cursor: pointer;
+  font-size: 2rem;
+ margin-left: 30px;
+}
